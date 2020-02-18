@@ -2,15 +2,12 @@
 
 Documentación de las sesiones que he impartido en el C.N. Helios. Gracias al club, y en particular a su director técnico David Boudet, por confiar en mí.
 
-## Sobre mí y mi vínculo con la natación
+## ¿Quién soy?
 
-
-<img src="./img/carlos.png" width="100">
 Carlos Rodríguez Jaso
+<img src="./img/carlos.png" width="100">
 
-
-
-* Como nadador:
+* Carrera como nadador:
   - Nadador activo durante las temporadas 1978-79 a 1997-1998
   - Clubes: E.M. Olivar hasta 1980, C.N. Helios desde 1980
   - Mejores pruebas: 100 y 200 Mariposa, 400 estilos
