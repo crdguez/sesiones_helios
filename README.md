@@ -3,10 +3,8 @@
 Documentación de las sesiones que he impartido en el C.N. Helios. Gracias al club, y en particular a su director técnico David Boudet, por confiar en mí.
 
 ## Sobre mí y mi vínculo con la natación
-<img src="./img/carlos.png" width="48">
 
-![](./img/carlos.png)  
-
+<img src="./img/carlos.png" width="60">
 Carlos Rodríguez Jaso
 
 * Como nadador:
