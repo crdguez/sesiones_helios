@@ -4,7 +4,7 @@ Documentación de las sesiones que he impartido en el C.N. Helios. Gracias al cl
 
 ## Sobre mí y mi vínculo con la natación
 
-<img src="./img/carlos.png" width="60">
+<img src="./img/carlos.png" width="100">
 Carlos Rodríguez Jaso
 
 * Como nadador:
