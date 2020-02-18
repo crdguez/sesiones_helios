@@ -20,7 +20,7 @@ Carlos Rodríguez Jaso
    - Técnico de las categorías inferiores de P.San Agustín y C.N. Helios
    - Colaborador con la federación aragonesa en las sesiones de tecnificación de categorías inferiores.
    
-## Jornadas:
+## Sesiones:
 
 * [22/02/2020]()
    
