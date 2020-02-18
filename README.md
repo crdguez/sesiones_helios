@@ -18,4 +18,4 @@ Carlos Rodríguez Jaso
      - Mejor deportista de C.N. Helios en 1988
 * Experinecia como técnico:
    - Técnico de las categorías inferiores de P.San Agustín y C.N. Helios
-   - Colaborador con la federación aragonesa en las sesiones de tecnificación que organiza para las categorías inferiores.
+   - Colaborador con la federación aragonesa en las sesiones de tecnificación de categorías inferiores.
