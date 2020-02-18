@@ -1,10 +1,10 @@
 # Mis sesiones de natación en Helios
 
-Documentación de las sesiones que he impartido en Helios. Gracias al club, y en particular a su director técnico David Boudet, por confiar en mí.
+Documentación de las sesiones que he impartido en el C.N. Helios. Gracias al club, y en particular a su director técnico David Boudet, por confiar en mí.
 
-## Sobre mi vínculo con la natación
+## Sobre mí y mi vínculo con la natación
 
-Carlos Rodríguez:
+Carlos Rodríguez Jaso
 
 * Como nadador:
   - Nadador activo durante las temporadas 1978-79 a 1997-1998
