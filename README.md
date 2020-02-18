@@ -5,6 +5,7 @@ Documentación de las sesiones que he impartido en el C.N. Helios. Gracias al cl
 ## ¿Quién soy?
 
 Carlos Rodríguez Jaso
+<br>
 <img src="./img/carlos.png" width="100">
 
 * Carrera como nadador:
