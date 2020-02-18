@@ -16,7 +16,7 @@ Carlos Rodríguez Jaso
      - Medallista en campeonatos de España por grupos de edad y absoluto
      - Internacional por España en categorías inferiores y absoluta: Campeonato de Europa Junior, Juegos del Mediterráneo,...
      - Mejor deportista de C.N. Helios en 1988
-* Experinecia como técnico:
+* Experiencia como técnico:
    - Técnico de las categorías inferiores de P.San Agustín y C.N. Helios
    - Colaborador con la federación aragonesa en las sesiones de tecnificación de categorías inferiores.
    
