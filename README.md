@@ -26,12 +26,8 @@ Carlos Rodríguez Jaso
 * [22/02/2020]()
 
 
-## Recursos
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d8Y7j4YmotE/0.jpg)](https://www.youtube.com/watch?v=d8Y7j4YmotE)
-[![Everything Is AWESOME](./img/carlos.png)](https://youtu.be/d8Y7j4YmotE?t=5s "Everything Is AWESOME")   
-   
-   
+
 ## Licencia
 ![](./attribution-share-alike-creative-commons-license.png)  
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
