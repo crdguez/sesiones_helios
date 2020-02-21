@@ -23,7 +23,7 @@ Carlos Rodríguez Jaso
 
 ## Sesiones:
 
-* [22/02/2020]()
+* [22/02/2020](./sesiones/22_02_20.md)
 
 
 
